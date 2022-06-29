@@ -1,0 +1,5 @@
+print('Hola soy rodrigo Casazza')
+print('Tengo 14 años')
+print('voy en 9B')
+print('Y me gusta el futbol')
+print('HAMBURGESA')
